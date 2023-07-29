@@ -1,7 +1,7 @@
 <h1 align=center>Friendly Dog</h1>
 <p align=center>A simple plugin to add features for tamed wolves.</p>
 
-It's annoying while playing SMP. You accidentally hit, slash, someone with tamed wolves, sometimes that action will kill the beloved pet. And nobody wants to lose their helpful companion like that.
+It's annoying while playing SMP when you accidentally hit, slash, someone with tamed wolves, sometimes that action will kill the beloved pet. And nobody wants to lose their helpful companion like that.
 So I've created this plugin to make both the players and the tamed wolves can't fight each other.
 
 ## Features
