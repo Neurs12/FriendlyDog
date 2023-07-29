@@ -1,0 +1,17 @@
+name: FriendlyDog
+version: 1.0
+api-version: 1.13
+main: dev.neurs.FriendlyDog.Main
+author: Neurs12
+description: A little CraftBukkit plugin to disable tamed dogs from hitting other players.
+
+commands:
+  fd:
+    description: A toggle for you to disable or enable the plugin.
+    default: true
+    usage: /fd
+
+permissions:
+  friendlydog.toggle:
+    default: true
+    description: Allows you to disable/enable the plugin.
