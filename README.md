@@ -5,10 +5,10 @@ It's annoying while playing SMP. You accidentally hit, slash, someone with tamed
 So I've created this plugin to make both the players and the tamed wolves can't fight each other.
 
 ## Features
-- Tamed wolves won't attack other players for any reasons.
+- Tamed wolves won't attack other players for any reason.
 - Players can't attack tamed wolves.
-- When owner's offline, it will become invincible.
+- When the owner's offline, it will become invincible.
 
 ## Enable / Disable
-- The plugin will always in activated mode.
-- To disable or enable it, just run the command "/fd" with now extra arguments, think of it like a switch, and of course, onpy someone with OP permission can run this command.
+- The plugin will always be in activated mode.
+- To disable or enable it, just run the command "/fd" with no extra arguments, think of it like a switch, and of course, only someone with OP permission can run this command.
