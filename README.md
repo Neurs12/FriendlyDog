@@ -11,4 +11,4 @@ So I've created this plugin to make both the players and the tamed wolves can't 
 
 ## Enable / Disable
 - The plugin will always be in activated mode.
-- To disable or enable it, just run the command "/fd" with no extra arguments, think of it like a switch, and of course, only someone with OP permission can run this command.
+- To disable or enable it, simply run the command "/fd" with no extra arguments, think of it like a switch, and of course, only someone with OP permission can run this command.
