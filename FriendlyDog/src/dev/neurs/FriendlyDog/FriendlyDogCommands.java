@@ -21,9 +21,10 @@ public class FriendlyDogCommands implements CommandExecutor {
 	        } else {
 	            sender.sendMessage("[FriendlyDog] Dogs hate you now.");
 	        }
+	        return true;
 		}
 		sender.sendMessage("[FriendlyDog] You have no permission to perform this action.");
-        return true;
+        return false;
 	}
-	
+
 }
